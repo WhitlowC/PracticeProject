@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I7KAM7igAcq1MUX3ukHvW/0u4fddFWeqnx/rvm+BA2jl+jTM9eAIjOokJ6QT2ymizWxhsqKbPoMnz/LmZzpH0A==",
+  "dgSpecHash": "V80k4M/U7GKNvak8ZtTNpF7ElGguUtD4h4JF5iiPe5knUQYWiMkiFfWMzvmysScu9I+aPbQqM1kmMNkqPJWlrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mkeen\\Source\\Repos\\PracticeProject\\PracticeProject\\PracticeProject.csproj",
+  "projectFilePath": "C:\\Users\\mkeen\\source\\repos\\PracticeProject\\PracticeProject\\PracticeProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mkeen\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mkeen\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.8\\microsoft.entityframeworkcore.6.0.8.nupkg.sha512",

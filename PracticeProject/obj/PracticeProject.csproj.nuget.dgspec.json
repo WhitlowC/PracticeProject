@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mkeen\\Source\\Repos\\PracticeProject\\PracticeProject\\PracticeProject.csproj": {}
+    "C:\\Users\\mkeen\\source\\repos\\PracticeProject\\PracticeProject\\PracticeProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mkeen\\Source\\Repos\\PracticeProject\\PracticeProject\\PracticeProject.csproj": {
+    "C:\\Users\\mkeen\\source\\repos\\PracticeProject\\PracticeProject\\PracticeProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mkeen\\Source\\Repos\\PracticeProject\\PracticeProject\\PracticeProject.csproj",
+        "projectUniqueName": "C:\\Users\\mkeen\\source\\repos\\PracticeProject\\PracticeProject\\PracticeProject.csproj",
         "projectName": "PracticeProject",
-        "projectPath": "C:\\Users\\mkeen\\Source\\Repos\\PracticeProject\\PracticeProject\\PracticeProject.csproj",
+        "projectPath": "C:\\Users\\mkeen\\source\\repos\\PracticeProject\\PracticeProject\\PracticeProject.csproj",
         "packagesPath": "C:\\Users\\mkeen\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mkeen\\Source\\Repos\\PracticeProject\\PracticeProject\\obj\\",
         "projectStyle": "PackageReference",
