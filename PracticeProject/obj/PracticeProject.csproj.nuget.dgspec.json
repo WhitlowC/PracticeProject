@@ -11,7 +11,7 @@
         "projectName": "PracticeProject",
         "projectPath": "C:\\Users\\mkeen\\source\\repos\\PracticeProject\\PracticeProject\\PracticeProject.csproj",
         "packagesPath": "C:\\Users\\mkeen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mkeen\\Source\\Repos\\PracticeProject\\PracticeProject\\obj\\",
+        "outputPath": "C:\\Users\\mkeen\\source\\repos\\PracticeProject\\PracticeProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
